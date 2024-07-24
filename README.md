@@ -1,2 +1,2 @@
 # Basic C Scripts
-A collection of basic shell scripts written in the C programming language.
+A collection of basic scripts written in the C programming language.
